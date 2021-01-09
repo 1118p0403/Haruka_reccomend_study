@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>201204study2</title>
+    <link rel="stylesheet" href="./201204study2.css" />
+</head>
+<body>
+    <h1>あなたにおすすめの天海春香さんは？</h1>
+    <p>名前を入れて下さい</p>
+    <input type="text" id="pName" size="40" maxlength="20" />
+    <button id="assessment">診断する</button>
+    <div id="result-area"></div>
+    <div id="tweet-area"></div>
+    <script src="./201204study2.js"></script>
+</body>
+</html>
